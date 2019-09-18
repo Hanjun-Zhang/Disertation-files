@@ -1,0 +1,10 @@
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_475.jpg 393,167,723,596,0
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_491.jpg 385,221,682,627,0
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_490.jpg 308,219,595,560,0
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_472.jpg 322,253,680,671,0
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_514.jpg 435,171,594,384,0
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_587.jpg 423,180,585,405,0
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_614.jpg 462,140,726,502,0
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_622.jpg 205,120,639,740,0
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_671.jpg 228,225,657,853,0
+G:\\wider_face\\WIDER_train\\WIDER_train\\images\\9--Press_Conference\\9_Press_Conference_Press_Conference_9_677.jpg 144,270,605,893,0
